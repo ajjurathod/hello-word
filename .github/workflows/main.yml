@@ -15,5 +15,3 @@ jobs:
           node-version: 14
       - name: Install Dependencies
         run: npm install
-      - name: Run Hello World
-        run: node app.js
